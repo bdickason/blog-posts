@@ -12,7 +12,7 @@ I use these examples because I believe they're incredibly applicable to VR. When
 
 However, there was one game that blew me away. It wasn't a big-budget shooter, or even one of the more highly rated rift demos. It was [Rift Racer](http://www.decane.net/game/oculus-rift/riftracer/), an incredibly low-poly racing game that loosely resembled the old game 'Stunts' that made rounds in the msdos shareware days.
 
-![Rift Racer](http://cl.ly/image/3D3P0g051S0A)
+![Rift Racer](http://cl.ly/image/3D3P0g051S0A/Rift-Racer.png)
 *[Rift Racer](http://www.decane.net/game/oculus-rift/riftracer/), an early racing game for Oculus Rift*
 
 What this game nailed was a combo of graphics that were simple enough to appear 'normal' within this low-res world, controls that felt smooth, and above all else: absolutely perfect head tracking. It's crazy how much of a difference being able to look slightly left makes when taking a left hand turn... Or the moment when you're launched up in the air from a huge ramp and look behind you to see the ground as it quickly approaches.
